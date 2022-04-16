@@ -210,5 +210,4 @@ cython_debug/
 
 tawiki-dumps
 pics
-expdata.sdascii
-pm_ivanov*
+*.sdascii
